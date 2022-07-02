@@ -4,7 +4,7 @@
 **anavazquezs/anavazquezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🎓 I am a **professor and researcher**, a **Ph.D. in Agronomic Science**, and I have a **Biochemist** and **Pharmacist** degree.
+- 🎓 I am a **professor and researcher**, a **Ph.D. in Agronomic Science**, and I have a **Biochemist** and **Pharmacist** degrees.
 
 - 🌱 I am currently training as a **Full Stack Web Developer** in [Numen Academy](https://ar.academianumen.com/desarrollo-web-full-stack/).
 
