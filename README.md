@@ -18,7 +18,7 @@
 <a href=""https://www.linkedin.com/in/ana-vázquez-93666639" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-vazquez" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href=""https://orcid.org/0000-0003-1265-5066" target="_blank"><img align="center" src="https://iconape.com/cib-orcid-logo-icon-svg-png.html" alt="ana-vazquez" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0003-1265-5066" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ORCID/ORCID-Source/master/orcid-web/src/main/webapp/static/img/mini-icon.png" alt="ana-vazquez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
