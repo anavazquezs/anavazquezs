@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate in any project that allows me to continue learning about programming. 
 
-- 💡 My goal is to join my passions (teaching, research and programming) in order to direct my knowledge towards **design and creative management**.
+- 💡 My goal is to join my passions (teaching, research and programming) in order to direct my knowledge towards **data science, design and creative management**.
 
 ### Where to find me 
 <p align="left">
