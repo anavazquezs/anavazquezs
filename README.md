@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Ana Vazquez</h1>
-<h3 align="center">A Front-End Student</h3>
+<h3 align="center">A Front-End Developer Student</h3>
 
 <!--
 **anavazquezs/anavazquezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
